@@ -48,7 +48,27 @@ If you are using Anaconda:
 
 `conda install numpy`
 
+## Opening the workshop notebook
 
+First you need to download the material to your machine. You can do this by running the following line:
+
+```
+git clone https://github.com/johannesharmse/balancing_data.git
+```
+
+alternatively you can click on the `Clone or download` button in the top right and click on `Download ZIP` to download the repo directly. Once downloaded, extract the content.
+
+Next, `cd` into the `balancing_data` folder on your local machine.
+
+Now you can run the following command to launch Jupyter Notebook:
+
+```
+jupyter notebook
+```
+
+This should open the repository in your browser.
+
+In the browser, find the `src/balancing_data.ipynb` file and click on it to open it.
 
 
 
